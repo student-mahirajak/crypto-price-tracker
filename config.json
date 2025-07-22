@@ -1,0 +1,9 @@
+{
+  "bitcoin": {
+    "threshold": 10000
+  },
+  "ethereum": {
+    "threshold": 50000
+  },
+  "email": "maahico2004@gmail.com"
+}
